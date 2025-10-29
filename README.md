@@ -5,6 +5,18 @@ telegram: @hi_3333
 
 You can contact me here if you have any problems with this repo then we can decide comfortable contact way.
 
+## New Updates
+
+Axiom Buy + Bloom Buy is bypassing bubble detection problem successfully.
+Here is the example of successful launch.
+
+https://solscan.io/token/CaqZUfejGnHQtZqkF98iNQNXBYEuaHBEZxkRnmVAtqXK
+
+Bundle ID: 
+https://explorer.jito.wtf/bundle/b7c31cdb366875fa66aead1933843ae4ee48ce7eb7713304bd454e8e0a0786c2
+https://solscan.io/tx/LoQdPyTz2skmwNY1ouVZ4HoPWhU7G1pCw76mZHWzYGEWn3MZnFPn7ZQtWzsskLf99yeKCYLnhEH71KXX1eeWwLo
+https://solscan.io/tx/5N99cCok6td3Tcp3MV7ajUJLq7DsXxWKEceQ4YcCXtobHwZmJnvyKHbs9mDTDosUcH6CywN4LHd2oEntxwymhrTz
+
 ## Sample
 
 https://pump.fun/7JTQG7Bp6fsbnSmfT6NqRoTmoMj6aX9NZXdnsnHgJtuz
